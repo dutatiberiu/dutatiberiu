@@ -1,4 +1,4 @@
-# Hi, I'm @dutatiberiu
+# Hi, I'm Tiberiu
 
 ## 🚀 About Me
 <p>I can briefly describe myself as a highly adaptive individual with a taste for growth opportunities. Outdoor enthusiast(Trail Runner, Rock Climber), Deep passion for Photography, Autodidact, Front-end Developer in progress...</p>
