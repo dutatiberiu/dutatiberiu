@@ -1,4 +1,4 @@
-![Header](./headBanner.png.png)
+![Header](./headBanner.png)
 # Hi, I'm Tiberiu! 👋
 
 ## 🚀 About Me
