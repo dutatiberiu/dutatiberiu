@@ -1,3 +1,4 @@
+![Header](./headBanner.png.png)
 # Hi, I'm Tiberiu! 👋
 
 ## 🚀 About Me
