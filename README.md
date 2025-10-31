@@ -9,7 +9,7 @@
 <!--[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)--->
 
 ## Other
-- 👀 I’m interested in Front-end web development
+- 👀 I’m interested in Front-end web development but open to learn everything. 
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on any project that so I can learn more and practice. 
 - 📫 How to reach me ... dutageorgetiberiu@gmail.com
